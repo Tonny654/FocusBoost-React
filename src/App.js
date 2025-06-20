@@ -1,7 +1,11 @@
+import Header from './composants/Nav-bar.jsx';
+
 
 const App = () => {
   return (
-    <div></div>
+    <div>
+      <Header />
+    </div>
   );
 }
 
